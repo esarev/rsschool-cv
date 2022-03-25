@@ -21,7 +21,7 @@ and coding of course 💻
 <br />
 <br />
 
-### Example:
+*_example:_*
 
 ```javascript
 const func = (num) => {
