@@ -40,10 +40,6 @@ const func = (num) => {
 **Altai State Humanitarian Pedagogical University:**
 - social pedagogy.
 
-<br />
-<br />
-<br />
-
 ### You can contact me:
 [<img align="left" alt="vk" width="45px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
 [<img align="left" alt="facebook" width="45px" src="https://img.icons8.com/color/452/facebook.png" />][facebook]
