@@ -28,7 +28,33 @@ const func = (num) => {
 };
 ```
 
+### Language skills: 
+- English (elementary A2)
+
 ### Education:
 
 **Altai State Humanitarian Pedagogical University:**
 - social pedagogy.
+
+<br />
+<br />
+<br />
+
+### You can contact me:
+[<img align="left" alt="vk" width="45px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
+[<img align="left" alt="facebook" width="45px" src="https://img.icons8.com/color/452/facebook.png" />][facebook]
+[<img align="left" alt="intagram" width="45px" src="https://img.icons8.com/color/452/instagram-new.png" />][instagram]
+[<img align="left" alt="gmail" width="45px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
+
+
+[vk]: https://vk.com/sansey2008
+[facebook]: https://www.facebook.com/alexandr.esarev
+[instagram]: https://www.instagram.com/alex_esarev/
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=esarev@inbox.ru
+
+<br />
+<br />
+<br />
+
+### Statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarev&theme=prussian&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
